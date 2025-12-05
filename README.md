@@ -1,2 +1,0 @@
-# obs-panel
-OBS Panel
